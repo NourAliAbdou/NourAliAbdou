@@ -1,6 +1,6 @@
 #### Howdy, I'm Nour Abdou 👋
 
-## I'm a Mobile application Engineer! 
+### I'm a Mobile application Engineer! 
 
 - 👀 I’m interested in Entrepreneurship, AI & NLP 
 - 🌱 I’m currently learning web full-stack (ReactJS & nodeJS )
@@ -13,6 +13,9 @@
 [![Nour Abdou](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/message/P4Z4QEQSEZIDD1)
 [![Nour Abdou](https://img.shields.io/badge/SoundCloud-FF3300?logo=soundcloud&logoColor=white)](https://soundcloud.com/nour_abdou/)
 
+
+## 📜 My Motto
+> Think hard and learn how to see the world.
 ## 🛠 Technologies and Tools
 
  [![Nour Abdou](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
